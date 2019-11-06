@@ -55,6 +55,8 @@
                               @"iPhone12,1" : @(iPhone11),
                               @"iPhone12,3" : @(iPhone11Pro),
                               @"iPhone12,5" : @(iPhone11ProMax),
+                              @"i386"       : @(Simulator),
+                              @"x86_64"     : @(Simulator),
                               
                               //iPads
                               @"iPad1,1"  : @(iPad1),
